@@ -13,8 +13,6 @@ I'm a driven individual with a keen interest in web development. I specialize in
 - 💬 Ask me anything
 - 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
-  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=LamberthPaulinusRumpaidus)
 
 ## Get Me on Social Media
@@ -23,7 +21,6 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=for-the-badge&logo=tiktok&height=16&width=16)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook&height=16&width=16)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-blue?style=for-the-badge&logo=instagram&height=16&width=16)](https://www.instagram.com/lamberthrumpaidus06/)
-
 
 ## Skills 
 
@@ -43,3 +40,4 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![Next.js](https://img.shields.io/badge/Next.j-000000?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&height=16&width=16)](https://material-ui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&height=16&width=16)](https://getbootstrap.com/)
+
