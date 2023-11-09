@@ -36,9 +36,9 @@ I'm a driven individual with a keen interest in web development. I specialize in
 ## Skills 
 
 ### Programming Languages
-[![Python](https://img.icons8.com/color/16/452/python.png)](https://www.python.org/)
-[![JavaScript](https://img.icons8.com/color/16/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.icons8.com/color/16/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.icons8.com/color/16/452/python.png?style=for-the-badge&logo=node.js&height=16&width=16)](https://www.python.org/)
+[![JavaScript](https://img.icons8.com/color/16/452/javascript.png?style=for-the-badge&logo=node.js&height=16&width=16)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.icons8.com/color/16/452/css3.png?style=for-the-badge&logo=node.js&height=16&width=16)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.icons8.com/plasticine/16/452/react.png)](https://reactjs.org/)
 
 ### Tools and Libraries
