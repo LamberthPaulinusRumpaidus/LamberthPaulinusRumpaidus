@@ -15,6 +15,10 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
+<img src="https://camo.githubusercontent.com/79d732a736727be1e8943c5327139d166ed7d9aca60d3b807c33dd4f3767ab09/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7068696573616e67676f72656e67266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="LamberthPaulinusRumpaidus" data-canonical-
+
+---
+
 ## Education
 
 <details>
