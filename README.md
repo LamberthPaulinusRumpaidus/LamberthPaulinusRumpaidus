@@ -19,82 +19,57 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
-## Education
-
-<details>
-  <summary><b>Universitas Amikom</b> | Informatics | Yogyakarta | 2023-NOW</summary>
-  
-  - Pursuing my passion for technology at the renowned Universitas Amikom, with a focus on cybersecurity and web development.
-  - Gaining valuable insights into the world of informatics, honing my coding skills.
-  - Collaborating with bright minds on exciting projects to enhance my knowledge of web security.
-  - Building a strong foundation for my future career in IT.
-
-</details>
-
-<details>
-  <summary><b>SMA N 1 Mimika</b> | Science | Mimika | 2020-2023</summary>
-  
-  - Nurturing my curiosity in the realm of science and mathematics, which laid the groundwork for my interest in cybersecurity.
-  - Participating in science fairs and academic competitions.
-  - Fostering a love for learning and problem-solving.
-  - Shaping my academic journey towards a bright future.
-
-</details>
-
----  
-
 ## Skills
 
-<details>
   
   <summary><b>Programming Languages</b></summary>
   
-  - Python
-  - JavaScript
-  - CSS
-  - C++
-  - React
-
-</details>
-
-<details>
-  <summary><b>Tools and Libraries</b></summary>
-  
-  - Node.js
-  - MySQL
-  - Sass
-  - Contentful
-  - React Testing Library
-  - Jest
-
-</details>
-
-<details>
-  <summary><b>Frontend Development</b></summary>
-  
-  - React
-  - Next.js
-  - Material-UI
-  - Ant Design
-  - Tailwind CSS
-
-</details>
-
-<details>
-  <summary><b>Web Penetration Testing and Security</b></summary>
-  
-  - OWASP Top Ten vulnerabilities
-  - SQL injection
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
-  - Security Scanning Tools (e.g., Burp Suite, OWASP ZAP)
-
-</details>
-
+  - ![Python](https://img.shields.io/badge/Python-https://img.icons8.com/color/452/python.png?style=flat-square&logo=python)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-https://img.icons8.com/color/452/javascript.png?style=flat-square&logo=javascript)
+  - ![CSS](https://img.shields.io/badge/CSS-https://img.icons8.com/color/452/css3.png?style=flat-square&logo=css3)
+  - ![C++](https://img.shields.io/badge/C++-https://img.icons8.com/color/452/c-plus-plus-logo.png?style=flat-square&logo=cplusplus)
+  - ![React](https://img.shields.io/badge/React-https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
 
 
 ---
 
+
+  <summary><b>Tools and Libraries</b></summary>
+  
+  - ![Node.js](https://img.shields.io/badge/Node.js-https://img.icons8.com/color/452/nodejs.png?style=flat-square&logo=node.js)
+  - ![MySQL](https://img.shields.io/badge/MySQL-https://img.icons8.com/ios/452/mysql-logo.png?style=flat-square&logo=mysql)
+  - ![Sass](https://img.shields.io/badge/Sass-https://img.icons8.com/color/452/sass.png?style=flat-square&logo=sass)
+  - ![Contentful](https://img.shields.io/badge/Contentful-https://img.icons8.com/office/452/contentful.png?style=flat-square&logo=contentful)
+  - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-https://img.icons8.com/ios/452/react-native.png?style=flat-square&logo=testinglibrary)
+  - ![Jest](https://img.shields.io/badge/Jest-https://img.icons8.com/ios/452/jest.png?style=flat-square&logo=jest)
+
+
+    ---
+
+
+  <summary><b>Frontend Development</b></summary>
+  
+  - ![React](https://img.shields.io/badge/React-https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
+  - ![Next.js](https://img.shields.io/badge/Next.js-https://img.icons8.com/color/452/nextjs.png?style=flat-square&logo=next.js)
+  - ![Material-UI](https://img.shields.io/badge/Material--UI-https://img.icons8.com/color/452/material-ui.png?style=flat-square&logo=materialui)
+  - ![Ant Design](https://img.shields.io/badge/Ant%20Design-https://img.icons8.com/color/452/ant-design.png?style=flat-square&logo=antdesign)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-https://img.icons8.com/color/452/tailwind.png?style=flat-square&logo=tailwindcss)
+
+
+---
+
+
+  <summary><b>Web Penetration Testing and Security</b></summary>
+  
+  - ![OWASP Top Ten vulnerabilities](https://img.shields.io/badge/OWASP%20Top%20Ten-https://img.icons8.com/color/452/security-shield.png?style=flat-square&logo=owasp)
+  - ![SQL injection](https://img.shields.io/badge/SQL%20injection-https://img.icons8.com/color/452/inject.png?style=flat-square)
+  - ![Cross-Site Scripting (XSS)](https://img.shields.io/badge/Cross--Site%20Scripting-https://img.icons8.com/color/452/xss.png?style=flat-square)
+  - ![Cross-Site Request Forgery (CSRF)](https://img.shields.io/badge/Cross--Site%20Request%20Forgery-https://img.icons8.com/color/452/spam.png?style=flat-square)
+  - ![Security Scanning Tools](https://img.shields.io/badge/Security%20Scanning%20Tools-https://img.icons8.com/color/452/burp-suite.png?style=flat-square)
+
+
+
+---
 
 ## Get Me on Sosial Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
@@ -102,4 +77,3 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=flat-square&logo=facebook)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=flat-square&logo=instagram)](https://www.instagram.com/lamberthrumpaidus06/)
-
