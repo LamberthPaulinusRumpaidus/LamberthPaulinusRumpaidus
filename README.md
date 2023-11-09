@@ -97,7 +97,7 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ## Get Me on Sosial Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth Paulinus Rumpaidus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lamberth-paulinus-rumpaidus-b60a2b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Paulinus&nbsp;Rumpaidus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lamberth-paulinus-rumpaidus-b60a2b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=flat-square&logo=facebook)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=flat-square&logo=instagram)](https://www.instagram.com/lamberthrumpaidus06/)
