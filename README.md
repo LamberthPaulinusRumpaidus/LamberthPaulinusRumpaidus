@@ -15,9 +15,7 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-Total%20Visitors-brightgreen)](https://github.com/LamberthPaulinusRumpaidus/)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=LamberthPaulinusRumpaidus)
 
 ---
 
