@@ -23,36 +23,37 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 
 
-## Skills
+## Skills with Descriptions
 
 ### Programming Languages
-- <img src="https://img.icons8.com/color/452/python.png" alt="Python" width="50" height="50"/> Python
-- <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" width="50" height="50"/> JavaScript
-- <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" width="50" height="50"/> CSS
-- <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> C++
-- <img src="https://img.icons8.com/plasticine/452/react.png" alt="React" width="50" height="50"/> React
+- [Python](https://img.icons8.com/color/452/python.png) - A versatile programming language known for its readability and ease of use.
+- [JavaScript](https://img.icons8.com/color/452/javascript.png) - A widely-used scripting language for web development.
+- [CSS](https://img.icons8.com/color/452/css3.png) - Stylesheet language used for designing web pages.
+- [C++](https://img.icons8.com/color/452/c-plus-plus-logo.png) - An extension of the C programming language with object-oriented features.
+- [React](https://img.icons8.com/plasticine/452/react.png) - A JavaScript library for building user interfaces.
 
 ### Tools and Libraries
-- <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="50" height="50"/> Node.js
-- <img src="https://img.icons8.com/ios/452/mysql-logo.png" alt="MySQL" width="50" height="50"/> MySQL
-- <img src="https://img.icons8.com/color/452/sass.png" alt="Sass" width="50" height="50"/> Sass
-- <img src="https://img.icons8.com/office/452/contentful.png" alt="Contentful" width="50" height="50"/> Contentful
-- <img src="https://img.icons8.com/ios/452/react-native.png" alt="React Testing Library" width="50" height="50"/> React Testing Library
-- <img src="https://img.icons8.com/ios/452/jest.png" alt="Jest" width="50" height="50"/> Jest
+- [Node.js](https://img.icons8.com/color/452/nodejs.png) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [MySQL](https://img.icons8.com/ios/452/mysql-logo.png) - A popular open-source relational database management system.
+- [Sass](https://img.icons8.com/color/452/sass.png) - A CSS preprocessor scripting language.
+- [Contentful](https://img.icons8.com/office/452/contentful.png) - A content management platform for web applications.
+- [React Testing Library](https://img.icons8.com/ios/452/react-native.png) - A library for testing React components.
+- [Jest](https://img.icons8.com/ios/452/jest.png) - A JavaScript testing framework.
 
 ### Frontend Development
-- <img src="https://img.icons8.com/plasticine/452/react.png" alt="React" width="50" height="50"/> React
-- <img src="https://img.icons8.com/color/452/nextjs.png" alt="Next.js" width="50" height="50"/> Next.js
-- <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material-UI" width="50" height="50"/> Material-UI
-- <img src="https://img.icons8.com/color/452/ant-design.png" alt="Ant Design" width="50" height="50"/> Ant Design
-- <img src="https://img.icons8.com/color/452/tailwind.png" alt="Tailwind CSS" width="50" height="50"/> Tailwind CSS
+- [React](https://img.icons8.com/plasticine/452/react.png) - A JavaScript library for building user interfaces.
+- [Next.js](https://img.icons8.com/color/452/nextjs.png) - A React framework for building server-side rendered React applications.
+- [Material-UI](https://img.icons8.com/color/452/material-ui.png) - A React UI framework that implements Google's Material Design.
+- [Ant Design](https://img.icons8.com/color/452/ant-design.png) - A design system for enterprise-level products.
+- [Tailwind CSS](https://img.icons8.com/color/452/tailwind.png) - A utility-first CSS framework.
 
 ### Web Penetration Testing and Security
-- <img src="https://img.icons8.com/color/452/security-shield.png" alt="OWASP Top Ten vulnerabilities" width="50" height="50"/> OWASP Top Ten vulnerabilities
-- <img src="https://img.icons8.com/color/452/inject.png" alt="SQL injection" width="50" height="50"/> SQL injection
-- <img src="https://img.icons8.com/color/452/xss.png" alt="Cross-Site Scripting (XSS)" width="50" height="50"/> Cross-Site Scripting (XSS)
-- <img src="https://img.icons8.com/color/452/spam.png" alt="Cross-Site Request Forgery (CSRF)" width="50" height="50"/> Cross-Site Request Forgery (CSRF)
-- <img src="https://img.icons8.com/color/452/burp-suite.png" alt="Security Scanning Tools" width="50" height="50"/> Security Scanning Tools
+- [OWASP Top Ten vulnerabilities](https://img.icons8.com/color/452/security-shield.png) - The top ten security risks in web applications according to OWASP.
+- [SQL injection](https://img.icons8.com/color/452/inject.png) - A code injection technique to attack data-driven applications.
+- [Cross-Site Scripting (XSS)](https://img.icons8.com/color/452/xss.png) - A type of security vulnerability typically found in web applications.
+- [Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/452/spam.png) - An attack where a malicious actor tricks a user into performing actions on their behalf.
+- [Security Scanning Tools](https://img.icons8.com/color/452/burp-suite.png) - Tools like Burp Suite used for security scanning and testing.
+
 
 
 
