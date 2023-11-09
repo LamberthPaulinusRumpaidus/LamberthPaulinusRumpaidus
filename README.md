@@ -21,40 +21,39 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
+
+
 ## Skills
 
 ### Programming Languages
-  
-  - ![Python](https://img.icons8.com/color/452/python.png?style=flat-square&logo=python)
-  - ![JavaScript](https://img.icons8.com/color/452/javascript.png?style=flat-square&logo=javascript)
-  - ![CSS](https://img.icons8.com/color/452/css3.png?style=flat-square&logo=css3)
-  - ![C++](https://img.icons8.com/color/452/c-plus-plus-logo.png?style=flat-square&logo=cplusplus)
-  - ![React](https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
+- <img src="https://img.icons8.com/color/452/python.png" alt="Python" width="50" height="50"/> Python
+- <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" width="50" height="50"/> JavaScript
+- <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" width="50" height="50"/> CSS
+- <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> C++
+- <img src="https://img.icons8.com/plasticine/452/react.png" alt="React" width="50" height="50"/> React
 
 ### Tools and Libraries
-  
-  - ![Node.js](https://img.icons8.com/color/452/nodejs.png?style=flat-square&logo=node.js)
-  - ![MySQL](https://img.icons8.com/ios/452/mysql-logo.png?style=flat-square&logo=mysql)
-  - ![Sass](https://img.icons8.com/color/452/sass.png?style=flat-square&logo=sass)
-  - ![Contentful](https://img.icons8.com/office/452/contentful.png?style=flat-square&logo=contentful)
-  - ![React Testing Library](https://img.icons8.com/ios/452/react-native.png?style=flat-square&logo=testinglibrary)
-  - ![Jest](https://img.icons8.com/ios/452/jest.png?style=flat-square&logo=jest)
+- <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="50" height="50"/> Node.js
+- <img src="https://img.icons8.com/ios/452/mysql-logo.png" alt="MySQL" width="50" height="50"/> MySQL
+- <img src="https://img.icons8.com/color/452/sass.png" alt="Sass" width="50" height="50"/> Sass
+- <img src="https://img.icons8.com/office/452/contentful.png" alt="Contentful" width="50" height="50"/> Contentful
+- <img src="https://img.icons8.com/ios/452/react-native.png" alt="React Testing Library" width="50" height="50"/> React Testing Library
+- <img src="https://img.icons8.com/ios/452/jest.png" alt="Jest" width="50" height="50"/> Jest
 
 ### Frontend Development
-  
-  - ![React](https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
-  - ![Next.js](https://img.icons8.com/color/452/nextjs.png?style=flat-square&logo=next.js)
-  - ![Material-UI](https://img.icons8.com/color/452/material-ui.png?style=flat-square&logo=materialui)
-  - ![Ant Design](https://img.icons8.com/color/452/ant-design.png?style=flat-square&logo=antdesign)
-  - ![Tailwind CSS](https://img.icons8.com/color/452/tailwind.png?style=flat-square&logo=tailwindcss)
+- <img src="https://img.icons8.com/plasticine/452/react.png" alt="React" width="50" height="50"/> React
+- <img src="https://img.icons8.com/color/452/nextjs.png" alt="Next.js" width="50" height="50"/> Next.js
+- <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material-UI" width="50" height="50"/> Material-UI
+- <img src="https://img.icons8.com/color/452/ant-design.png" alt="Ant Design" width="50" height="50"/> Ant Design
+- <img src="https://img.icons8.com/color/452/tailwind.png" alt="Tailwind CSS" width="50" height="50"/> Tailwind CSS
 
 ### Web Penetration Testing and Security
-  
-  - ![OWASP Top Ten vulnerabilities](https://img.icons8.com/color/452/security-shield.png?style=flat-square&logo=owasp)
-  - ![SQL injection](https://img.icons8.com/color/452/inject.png?style=flat-square)
-  - ![Cross-Site Scripting (XSS)](https://img.icons8.com/color/452/xss.png?style=flat-square)
-  - ![Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/452/spam.png?style=flat-square)
-  - ![Security Scanning Tools](https://img.icons8.com/color/452/burp-suite.png?style=flat-square)
+- <img src="https://img.icons8.com/color/452/security-shield.png" alt="OWASP Top Ten vulnerabilities" width="50" height="50"/> OWASP Top Ten vulnerabilities
+- <img src="https://img.icons8.com/color/452/inject.png" alt="SQL injection" width="50" height="50"/> SQL injection
+- <img src="https://img.icons8.com/color/452/xss.png" alt="Cross-Site Scripting (XSS)" width="50" height="50"/> Cross-Site Scripting (XSS)
+- <img src="https://img.icons8.com/color/452/spam.png" alt="Cross-Site Request Forgery (CSRF)" width="50" height="50"/> Cross-Site Request Forgery (CSRF)
+- <img src="https://img.icons8.com/color/452/burp-suite.png" alt="Security Scanning Tools" width="50" height="50"/> Security Scanning Tools
+
 
 
 
