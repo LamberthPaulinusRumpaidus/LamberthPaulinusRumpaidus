@@ -23,8 +23,14 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
+## Get Me on Social Media
+[![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=for-the-badge&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Paulinus&nbsp;Rumpaidus-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lamberth-paulinus-rumpaidus-b60a2b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@nggakpeduligua/)
+[![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lamberthrumpaidus/)
+[![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/lamberthrumpaidus06/)
 
-
+---
 
 ## Skills with Links
 
@@ -57,16 +63,4 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 [![Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/48/452/spam.png)](https://owasp.org/www-community/attacks/csrf)
 [![Security Scanning Tools](https://img.icons8.com/color/48/452/burp-suite.png)](https://portswigger.net/burp)
 
-
-
-
-
 ---
-
-
-## Get Me on Sosial Media
-[![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Paulinus&nbsp;Rumpaidus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lamberth-paulinus-rumpaidus-b60a2b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@nggakpeduligua/)
-[![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=flat-square&logo=facebook)](https://www.facebook.com/lamberthrumpaidus/)
-[![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=flat-square&logo=instagram)](https://www.instagram.com/lamberthrumpaidus06/)
