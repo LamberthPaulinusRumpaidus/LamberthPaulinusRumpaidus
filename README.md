@@ -91,6 +91,10 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 </details>
 
+
+---
+
+
 ## Get Me on Sosial Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth-Paulinus-Rumpaidus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourName/)
