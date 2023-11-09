@@ -22,6 +22,7 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 
 ---
+---
 
 ## Get Me on Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=for-the-badge&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
@@ -35,32 +36,24 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 ## Skills with Links
 
 ### Programming Languages
-[![Python](https://img.icons8.com/color/48/452/python.png)](https://www.python.org/)
-[![JavaScript](https://img.icons8.com/color/48/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.icons8.com/color/48/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![C++](https://img.icons8.com/color/48/452/c-plus-plus-logo.png)](https://www.cplusplus.com/)
-[![React](https://img.icons8.com/plasticine/48/452/react.png)](https://reactjs.org/)
+[![Python](https://img.icons8.com/color/32/452/python.png)](https://www.python.org/)
+[![JavaScript](https://img.icons8.com/color/32/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.icons8.com/color/32/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C++](https://img.icons8.com/color/32/452/c-plus-plus-logo.png)](https://www.cplusplus.com/)
+[![React](https://img.icons8.com/plasticine/32/452/react.png)](https://reactjs.org/)
 
 ### Tools and Libraries
-[![Node.js](https://img.icons8.com/color/48/452/nodejs.png)](https://nodejs.org/)
-[![MySQL](https://img.icons8.com/ios/48/452/mysql-logo.png)](https://www.mysql.com/)
-[![Sass](https://img.icons8.com/color/48/452/sass.png)](https://sass-lang.com/)
-[![Contentful](https://img.icons8.com/office/48/452/contentful.png)](https://www.contentful.com/)
-[![React Testing Library](https://img.icons8.com/ios/48/452/react-native.png)](https://testing-library.com/docs/react-testing-library/intro/)
+[![Node.js](https://img.icons8.com/color/32/452/nodejs.png)](https://nodejs.org/)
+[![MySQL](https://img.icons8.com/ios/32/452/mysql-logo.png)](https://www.mysql.com/)
+[![Sass](https://img.icons8.com/color/32/452/sass.png)](https://sass-lang.com/)
+
 
 ### Frontend Development
-[![React](https://img.icons8.com/plasticine/48/452/react.png)](https://reactjs.org/)
-[![Next.js](https://img.icons8.com/color/48/452/nextjs.png)](https://nextjs.org/)
-[![Material-UI](https://img.icons8.com/color/48/452/material-ui.png)](https://material-ui.com/)
-[![Ant Design](https://img.icons8.com/color/48/452/ant-design.png)](https://ant.design/)
-[![Tailwind CSS](https://img.icons8.com/color/48/452/tailwind.png)](https://tailwindcss.com/)
-[![Bootstrap](https://img.icons8.com/color/48/452/bootstrap.png)](https://getbootstrap.com/)
-
-### Web Penetration Testing and Security
-[![OWASP Top Ten vulnerabilities](https://img.icons8.com/color/48/452/security-shield.png)](https://owasp.org/www-project-top-ten/)
-[![SQL injection](https://img.icons8.com/color/48/452/inject.png)](https://owasp.org/www-community/attacks/SQL_Injection)
-[![Cross-Site Scripting (XSS)](https://img.icons8.com/color/48/452/xss.png)](https://owasp.org/www-community/attacks/xss/)
-[![Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/48/452/spam.png)](https://owasp.org/www-community/attacks/csrf)
-[![Security Scanning Tools](https://img.icons8.com/color/48/452/burp-suite.png)](https://portswigger.net/burp)
+[![React](https://img.icons8.com/plasticine/32/452/react.png)](https://reactjs.org/)
+[![Next.js](https://img.icons8.com/color/32/452/nextjs.png)](https://nextjs.org/)
+[![Material-UI](https://img.icons8.com/color/32/452/material-ui.png)](https://material-ui.com/)
+[![Ant Design](https://img.icons8.com/color/32/452/ant-design.png)](https://ant.design/)
+[![Tailwind CSS](https://img.icons8.com/color/32/452/tailwind.png)](https://tailwindcss.com/)
+[![Bootstrap](https://img.icons8.com/color/32/452/bootstrap.png)](https://getbootstrap.com/)
 
 ---
