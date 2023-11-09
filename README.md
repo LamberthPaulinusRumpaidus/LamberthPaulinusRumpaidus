@@ -15,61 +15,51 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ---
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LamberthPaulinusRumpaidus)
+
 
 ---
 
 ## Skills
 
+### Programming Languages
   
-  <summary><b>Programming Languages</b></summary>
+  - ![Python](https://img.icons8.com/color/452/python.png?style=flat-square&logo=python)
+  - ![JavaScript](https://img.icons8.com/color/452/javascript.png?style=flat-square&logo=javascript)
+  - ![CSS](https://img.icons8.com/color/452/css3.png?style=flat-square&logo=css3)
+  - ![C++](https://img.icons8.com/color/452/c-plus-plus-logo.png?style=flat-square&logo=cplusplus)
+  - ![React](https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
+
+### Tools and Libraries
   
-  - ![Python](https://img.shields.io/badge/Python-https://img.icons8.com/color/452/python.png?style=flat-square&logo=python)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-https://img.icons8.com/color/452/javascript.png?style=flat-square&logo=javascript)
-  - ![CSS](https://img.shields.io/badge/CSS-https://img.icons8.com/color/452/css3.png?style=flat-square&logo=css3)
-  - ![C++](https://img.shields.io/badge/C++-https://img.icons8.com/color/452/c-plus-plus-logo.png?style=flat-square&logo=cplusplus)
-  - ![React](https://img.shields.io/badge/React-https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
+  - ![Node.js](https://img.icons8.com/color/452/nodejs.png?style=flat-square&logo=node.js)
+  - ![MySQL](https://img.icons8.com/ios/452/mysql-logo.png?style=flat-square&logo=mysql)
+  - ![Sass](https://img.icons8.com/color/452/sass.png?style=flat-square&logo=sass)
+  - ![Contentful](https://img.icons8.com/office/452/contentful.png?style=flat-square&logo=contentful)
+  - ![React Testing Library](https://img.icons8.com/ios/452/react-native.png?style=flat-square&logo=testinglibrary)
+  - ![Jest](https://img.icons8.com/ios/452/jest.png?style=flat-square&logo=jest)
+
+### Frontend Development
+  
+  - ![React](https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
+  - ![Next.js](https://img.icons8.com/color/452/nextjs.png?style=flat-square&logo=next.js)
+  - ![Material-UI](https://img.icons8.com/color/452/material-ui.png?style=flat-square&logo=materialui)
+  - ![Ant Design](https://img.icons8.com/color/452/ant-design.png?style=flat-square&logo=antdesign)
+  - ![Tailwind CSS](https://img.icons8.com/color/452/tailwind.png?style=flat-square&logo=tailwindcss)
+
+### Web Penetration Testing and Security
+  
+  - ![OWASP Top Ten vulnerabilities](https://img.icons8.com/color/452/security-shield.png?style=flat-square&logo=owasp)
+  - ![SQL injection](https://img.icons8.com/color/452/inject.png?style=flat-square)
+  - ![Cross-Site Scripting (XSS)](https://img.icons8.com/color/452/xss.png?style=flat-square)
+  - ![Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/452/spam.png?style=flat-square)
+  - ![Security Scanning Tools](https://img.icons8.com/color/452/burp-suite.png?style=flat-square)
+
 
 
 ---
 
-
-  <summary><b>Tools and Libraries</b></summary>
-  
-  - ![Node.js](https://img.shields.io/badge/Node.js-https://img.icons8.com/color/452/nodejs.png?style=flat-square&logo=node.js)
-  - ![MySQL](https://img.shields.io/badge/MySQL-https://img.icons8.com/ios/452/mysql-logo.png?style=flat-square&logo=mysql)
-  - ![Sass](https://img.shields.io/badge/Sass-https://img.icons8.com/color/452/sass.png?style=flat-square&logo=sass)
-  - ![Contentful](https://img.shields.io/badge/Contentful-https://img.icons8.com/office/452/contentful.png?style=flat-square&logo=contentful)
-  - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-https://img.icons8.com/ios/452/react-native.png?style=flat-square&logo=testinglibrary)
-  - ![Jest](https://img.shields.io/badge/Jest-https://img.icons8.com/ios/452/jest.png?style=flat-square&logo=jest)
-
-
-    ---
-
-
-  <summary><b>Frontend Development</b></summary>
-  
-  - ![React](https://img.shields.io/badge/React-https://img.icons8.com/plasticine/452/react.png?style=flat-square&logo=react)
-  - ![Next.js](https://img.shields.io/badge/Next.js-https://img.icons8.com/color/452/nextjs.png?style=flat-square&logo=next.js)
-  - ![Material-UI](https://img.shields.io/badge/Material--UI-https://img.icons8.com/color/452/material-ui.png?style=flat-square&logo=materialui)
-  - ![Ant Design](https://img.shields.io/badge/Ant%20Design-https://img.icons8.com/color/452/ant-design.png?style=flat-square&logo=antdesign)
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-https://img.icons8.com/color/452/tailwind.png?style=flat-square&logo=tailwindcss)
-
-
----
-
-
-  <summary><b>Web Penetration Testing and Security</b></summary>
-  
-  - ![OWASP Top Ten vulnerabilities](https://img.shields.io/badge/OWASP%20Top%20Ten-https://img.icons8.com/color/452/security-shield.png?style=flat-square&logo=owasp)
-  - ![SQL injection](https://img.shields.io/badge/SQL%20injection-https://img.icons8.com/color/452/inject.png?style=flat-square)
-  - ![Cross-Site Scripting (XSS)](https://img.shields.io/badge/Cross--Site%20Scripting-https://img.icons8.com/color/452/xss.png?style=flat-square)
-  - ![Cross-Site Request Forgery (CSRF)](https://img.shields.io/badge/Cross--Site%20Request%20Forgery-https://img.icons8.com/color/452/spam.png?style=flat-square)
-  - ![Security Scanning Tools](https://img.shields.io/badge/Security%20Scanning%20Tools-https://img.icons8.com/color/452/burp-suite.png?style=flat-square)
-
-
-
----
 
 ## Get Me on Sosial Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
