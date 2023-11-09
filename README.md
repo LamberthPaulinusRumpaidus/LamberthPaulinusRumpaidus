@@ -22,7 +22,7 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Paulinus&nbsp;Rumpaidus-blue?style=for-the-badge&logo=linkedin&height=16&width=16)](https://www.linkedin.com/in/lamberth-paulinus-rumpaidus-b60a2b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=for-the-badge&logo=tiktok&height=16&width=16)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook&height=16&width=16)](https://www.facebook.com/lamberthrumpaidus/)
-[![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=for-the-badge&logo=instagram&height=16&width=16)](https://www.instagram.com/lamberthrumpaidus06/)
+[![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-blue?style=for-the-badge&logo=instagram&height=16&width=16)](https://www.instagram.com/lamberthrumpaidus06/)
 
 ## Skills 
 
