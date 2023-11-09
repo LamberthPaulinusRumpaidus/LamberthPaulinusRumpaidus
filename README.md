@@ -42,8 +42,8 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/)
 
 ### Tools and Libraries
-[![Node.js](https://img.shields.io/badge/Node.js-14.0-339933?style=for-the-badge&logo=node.js&height=16&width=16)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql&height=16&width=16)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&height=16&width=16)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&height=16&width=16)](https://www.mysql.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&height=16&width=16)](https://sass-lang.com/)
 
 ### Frontend Development
