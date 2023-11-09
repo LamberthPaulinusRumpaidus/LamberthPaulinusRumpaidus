@@ -13,11 +13,9 @@ I'm a driven individual with a keen interest in web development. I specialize in
 - 💬 Ask me anything
 - 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
----
+  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LamberthPaulinusRumpaidus)
-
----
 
 ## Get Me on Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=for-the-badge&logo=github&height=16&width=16)](https://github.com/LamberthPaulinusRumpaidus/)
@@ -25,8 +23,6 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=for-the-badge&logo=tiktok&height=16&width=16)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook&height=16&width=16)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=for-the-badge&logo=instagram&height=16&width=16)](https://www.instagram.com/lamberthrumpaidus06/)
-
----
 
 ## Skills 
 
