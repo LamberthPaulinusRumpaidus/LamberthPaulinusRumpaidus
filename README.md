@@ -23,36 +23,37 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 
 
-## Skills with Descriptions
+## Skills with Links
 
 ### Programming Languages
-- [Python](https://img.icons8.com/color/452/python.png) - A versatile programming language known for its readability and ease of use.
-- [JavaScript](https://img.icons8.com/color/452/javascript.png) - A widely-used scripting language for web development.
-- [CSS](https://img.icons8.com/color/452/css3.png) - Stylesheet language used for designing web pages.
-- [C++](https://img.icons8.com/color/452/c-plus-plus-logo.png) - An extension of the C programming language with object-oriented features.
-- [React](https://img.icons8.com/plasticine/452/react.png) - A JavaScript library for building user interfaces.
+- [![Python](https://img.icons8.com/color/452/python.png)](https://www.python.org/) - A versatile programming language known for its readability and ease of use.
+- [![JavaScript](https://img.icons8.com/color/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A widely-used scripting language for web development.
+- [![CSS](https://img.icons8.com/color/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) - Stylesheet language used for designing web pages.
+- [![C++](https://img.icons8.com/color/452/c-plus-plus-logo.png)](https://www.cplusplus.com/) - An extension of the C programming language with object-oriented features.
+- [![React](https://img.icons8.com/plasticine/452/react.png)](https://reactjs.org/) - A JavaScript library for building user interfaces.
 
 ### Tools and Libraries
-- [Node.js](https://img.icons8.com/color/452/nodejs.png) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [MySQL](https://img.icons8.com/ios/452/mysql-logo.png) - A popular open-source relational database management system.
-- [Sass](https://img.icons8.com/color/452/sass.png) - A CSS preprocessor scripting language.
-- [Contentful](https://img.icons8.com/office/452/contentful.png) - A content management platform for web applications.
-- [React Testing Library](https://img.icons8.com/ios/452/react-native.png) - A library for testing React components.
-- [Jest](https://img.icons8.com/ios/452/jest.png) - A JavaScript testing framework.
+- [![Node.js](https://img.icons8.com/color/452/nodejs.png)](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [![MySQL](https://img.icons8.com/ios/452/mysql-logo.png)](https://www.mysql.com/) - A popular open-source relational database management system.
+- [![Sass](https://img.icons8.com/color/452/sass.png)](https://sass-lang.com/) - A CSS preprocessor scripting language.
+- [![Contentful](https://img.icons8.com/office/452/contentful.png)](https://www.contentful.com/) - A content management platform for web applications.
+- [![React Testing Library](https://img.icons8.com/ios/452/react-native.png)](https://testing-library.com/docs/react-testing-library/intro/) - A library for testing React components.
+- [![Jest](https://img.icons8.com/ios/452/jest.png)](https://jestjs.io/) - A JavaScript testing framework.
 
 ### Frontend Development
-- [React](https://img.icons8.com/plasticine/452/react.png) - A JavaScript library for building user interfaces.
-- [Next.js](https://img.icons8.com/color/452/nextjs.png) - A React framework for building server-side rendered React applications.
-- [Material-UI](https://img.icons8.com/color/452/material-ui.png) - A React UI framework that implements Google's Material Design.
-- [Ant Design](https://img.icons8.com/color/452/ant-design.png) - A design system for enterprise-level products.
-- [Tailwind CSS](https://img.icons8.com/color/452/tailwind.png) - A utility-first CSS framework.
+- [![React](https://img.icons8.com/plasticine/452/react.png)](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [![Next.js](https://img.icons8.com/color/452/nextjs.png)](https://nextjs.org/) - A React framework for building server-side rendered React applications.
+- [![Material-UI](https://img.icons8.com/color/452/material-ui.png)](https://material-ui.com/) - A React UI framework that implements Google's Material Design.
+- [![Ant Design](https://img.icons8.com/color/452/ant-design.png)](https://ant.design/) - A design system for enterprise-level products.
+- [![Tailwind CSS](https://img.icons8.com/color/452/tailwind.png)](https://tailwindcss.com/) - A utility-first CSS framework.
 
 ### Web Penetration Testing and Security
-- [OWASP Top Ten vulnerabilities](https://img.icons8.com/color/452/security-shield.png) - The top ten security risks in web applications according to OWASP.
-- [SQL injection](https://img.icons8.com/color/452/inject.png) - A code injection technique to attack data-driven applications.
-- [Cross-Site Scripting (XSS)](https://img.icons8.com/color/452/xss.png) - A type of security vulnerability typically found in web applications.
-- [Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/452/spam.png) - An attack where a malicious actor tricks a user into performing actions on their behalf.
-- [Security Scanning Tools](https://img.icons8.com/color/452/burp-suite.png) - Tools like Burp Suite used for security scanning and testing.
+- [![OWASP Top Ten vulnerabilities](https://img.icons8.com/color/452/security-shield.png)](https://owasp.org/www-project-top-ten/) - The top ten security risks in web applications according to OWASP.
+- [![SQL injection](https://img.icons8.com/color/452/inject.png)](https://owasp.org/www-community/attacks/SQL_Injection) - A code injection technique to attack data-driven applications.
+- [![Cross-Site Scripting (XSS)](https://img.icons8.com/color/452/xss.png)](https://owasp.org/www-community/attacks/xss/) - A type of security vulnerability typically found in web applications.
+- [![Cross-Site Request Forgery (CSRF)](https://img.icons8.com/color/452/spam.png)](https://owasp.org/www-community/attacks/csrf) - An attack where a malicious actor tricks a user into performing actions on their behalf.
+- [![Security Scanning Tools](https://img.icons8.com/color/452/burp-suite.png)](https://portswigger.net/burp) - Tools like Burp Suite used for security scanning and testing.
+
 
 
 
