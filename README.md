@@ -15,13 +15,8 @@ I'm a driven individual with a keen interest in web development. I specialize in
 
 ---
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=LamberthPaulinusRumpaidus)
 
-
-
----
 ---
 
 ## Get Me on Social Media
@@ -51,5 +46,3 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![Next.js](https://img.shields.io/badge/Next.j-000000?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&height=16&width=16)](https://material-ui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&height=16&width=16)](https://getbootstrap.com/)
-
----
