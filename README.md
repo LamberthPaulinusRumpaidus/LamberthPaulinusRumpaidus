@@ -24,6 +24,7 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook&height=16&width=16)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-blue?style=for-the-badge&logo=instagram&height=16&width=16)](https://www.instagram.com/lamberthrumpaidus06/)
 
+
 ## Skills 
 
 ### Programming Languages
