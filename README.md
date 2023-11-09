@@ -36,20 +36,20 @@ I'm a driven individual with a keen interest in web development. I specialize in
 ## Skills with Links
 
 ### Programming Languages
-[![Python](https://img.icons8.com/color/24/452/python.png)](https://www.python.org/)
-[![JavaScript](https://img.icons8.com/color/24/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.icons8.com/color/24/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.icons8.com/plasticine/24/452/react.png)](https://reactjs.org/)
+[![Python](https://img.icons8.com/color/16/452/python.png)](https://www.python.org/)
+[![JavaScript](https://img.icons8.com/color/16/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.icons8.com/color/16/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.icons8.com/plasticine/16/452/react.png)](https://reactjs.org/)
 
 ### Tools and Libraries
-[![Node.js](https://img.icons8.com/color/24/452/nodejs.png)](https://nodejs.org/)
-[![MySQL](https://img.icons8.com/ios/24/452/mysql-logo.png)](https://www.mysql.com/)
-[![Sass](https://img.icons8.com/color/24/452/sass.png)](https://sass-lang.com/)
+[![Node.js](https://img.icons8.com/color/16/452/nodejs.png)](https://nodejs.org/)
+[![MySQL](https://img.icons8.com/ios/16/452/mysql-logo.png)](https://www.mysql.com/)
+[![Sass](https://img.icons8.com/color/16/452/sass.png)](https://sass-lang.com/)
 
 ### Frontend Development
-[![React](https://img.icons8.com/plasticine/24/452/react.png)](https://reactjs.org/)
-[![Next.js](https://img.icons8.com/color/24/452/nextjs.png)](https://nextjs.org/)
-[![Material-UI](https://img.icons8.com/color/24/452/material-ui.png)](https://material-ui.com/)
-[![Bootstrap](https://img.icons8.com/color/24/452/bootstrap.png)](https://getbootstrap.com/)
+[![React](https://img.icons8.com/plasticine/16/452/react.png)](https://reactjs.org/)
+[![Next.js](https://img.icons8.com/color/16/452/nextjs.png)](https://nextjs.org/)
+[![Material-UI](https://img.icons8.com/color/16/452/material-ui.png)](https://material-ui.com/)
+[![Bootstrap](https://img.icons8.com/color/16/452/bootstrap.png)](https://getbootstrap.com/)
 
 ---
