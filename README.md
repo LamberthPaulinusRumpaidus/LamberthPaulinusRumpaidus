@@ -90,3 +90,11 @@ I'm a driven individual with a keen interest in web development and cybersecurit
   - Security Scanning Tools (e.g., Burp Suite, OWASP ZAP)
 
 </details>
+
+## Get Me on Sosial Media
+[![GitHub](https://img.shields.io/badge/GitHub-LamberthPaulinusRumpaidus-blue?style=flat-square&logo=github)](https://github.com/LamberthPaulinusRumpaidus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth-Paulinus-Rumpaidus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourName/)
+[![TikTok](https://img.shields.io/badge/TikTok-@nggakpeduligua-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@YourUsername/)
+[![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=flat-square&logo=facebook)](https://www.facebook.com/YourProfile/)
+[![Instagram](https://img.shields.io/badge/Instagram-Lamberthrumpaidus06-purple?style=flat-square&logo=instagram)](https://www.instagram.com/YourUsername/)
+
