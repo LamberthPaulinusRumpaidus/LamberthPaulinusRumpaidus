@@ -36,20 +36,20 @@ I'm a driven individual with a keen interest in web development. I specialize in
 ## Skills 
 
 ### Programming Languages
-[![Python](https://img.icons8.com/color/16/452/python.png)](https://www.python.org/){:style="height: 16px; width: 16px;"}
-[![JavaScript](https://img.icons8.com/color/16/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:style="height: 16px; width: 16px;"}
-[![CSS](https://img.icons8.com/color/16/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS){:style="height: 16px; width: 16px;"}
-[![React](https://img.icons8.com/plasticine/16/452/react.png)](https://reactjs.org/){:style="height: 16px; width: 16px;"}
+[![Python](https://img.icons8.com/color/16/452/python.png)](https://www.python.org/)
+[![JavaScript](https://img.icons8.com/color/16/452/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.icons8.com/color/16/452/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.icons8.com/plasticine/16/452/react.png)](https://reactjs.org/)
 
 ### Tools and Libraries
-[![Node.js](https://img.shields.io/badge/Node.js-14.x-339933?style=for-the-badge&logo=node.js&height=16&width=16)](https://nodejs.org/){:style="height: 16px; width: 16px;"}
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue?style=for-the-badge&logo=mysql&height=16&width=16)](https://www.mysql.com/){:style="height: 16px; width: 16px;"}
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&height=16&width=16)](https://sass-lang.com/){:style="height: 16px; width: 16px;"}
+[![Node.js](https://img.shields.io/badge/Node.js-14.x-339933?style=for-the-badge&logo=node.js&height=16&width=16)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue?style=for-the-badge&logo=mysql&height=16&width=16)](https://www.mysql.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&height=16&width=16)](https://sass-lang.com/)
 
 ### Frontend Development
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/){:style="height: 16px; width: 16px;"}
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/){:style="height: 16px; width: 16px;"}
-[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&height=16&width=16)](https://material-ui.com/){:style="height: 16px; width: 16px;"}
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&height=16&width=16)](https://getbootstrap.com/){:style="height: 16px; width: 16px;"}
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/)
+[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&height=16&width=16)](https://material-ui.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&height=16&width=16)](https://getbootstrap.com/)
 
 ---
