@@ -47,8 +47,8 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&height=16&width=16)](https://sass-lang.com/)
 
 ### Frontend Development
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.j?style=for-the-badge&logo=next.js&height=16&width=16)](https://nextjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&height=16&width=16)](https://material-ui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&height=16&width=16)](https://getbootstrap.com/)
 
