@@ -29,6 +29,8 @@ I'm a driven individual with a keen interest in web development. I specialize in
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&height=16&width=16)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&height=16&width=16)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&height=16&width=16)](https://reactjs.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&height=16&width=16)](https://www.cplusplus.com/)
+
 
 ### Tools and Libraries
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&height=16&width=16)](https://nodejs.org/)
